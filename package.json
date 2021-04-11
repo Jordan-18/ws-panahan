@@ -1,0 +1,19 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordan-18/ws-panahan.git"
+  },
+  "author": "jordan-18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordan-18/ws-panahan/issues"
+  },
+  "homepage": "https://github.com/Jordan-18/ws-panahan#readme"
+}
