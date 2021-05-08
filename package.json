@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Jordan-18/ws-panahan/issues"
   },
-  "homepage": "https://github.com/Jordan-18/ws-panahan#readme"
+  "homepage": "https://github.com/Jordan-18/ws-panahan#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
 }
